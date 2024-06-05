@@ -1,3 +1,7 @@
 export default function Home() {
-  return <h1 className="text-2xl text-center">Hi! Abdul Wahab</h1>;
+  return (
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+      <h1 className="text-2xl text-center text-slate-500">Hi! Abdul Wahab</h1>
+    </main>
+  );
 }

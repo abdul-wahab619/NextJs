@@ -37,3 +37,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Folder Structure
 - How Page and Layouts works
 - children
+
+2. Navbar
+
+- Use UI Aceternity
+- components, data, utils
+- use client
+- hooks
+- Dark-Mode class
+- alias
