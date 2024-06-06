@@ -46,3 +46,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - hooks
 - Dark-Mode class
 - alias
+
+3. Hero Section
+
+- HeroSection
+- Moving Border
+- Spotlight
