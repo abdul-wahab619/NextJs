@@ -83,3 +83,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 9. Footer
 
 - Grid
+
+10. Routing
+
+- Courese
+- Contact Us
