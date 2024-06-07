@@ -79,3 +79,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 - Wavy Backgound
 - Animated Tooltip
+
+9. Footer
+
+- Grid
