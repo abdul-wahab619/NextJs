@@ -71,5 +71,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Frammer Motion
 
 7. Card Hover Effect
+
 - Cards
 - Hover Effect
+
+8. Animated Wavy Background
+
+- Wavy Backgound
+- Animated Tooltip
