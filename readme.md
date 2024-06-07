@@ -58,3 +58,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Typescript (Interface)
 - Map and Filter
 - Backgound Gradient Effect
+
+5. Sticky Scroll Section
+
+- Smooth Scrolling Effect
+- Changes Gradient with texts
