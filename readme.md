@@ -52,3 +52,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - HeroSection
 - Moving Border
 - Spotlight
+
+4. Card Section
+
+- Typescript (Interface)
+- Map and Filter
+- Backgound Gradient Effect
