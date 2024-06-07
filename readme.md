@@ -65,6 +65,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Changes Gradient with texts
 
 6. Grid background and Moving cards
+
 - Grid Acertanity UI
 - Moving Cards Transition
 - Frammer Motion
+
+7. Card Hover Effect
+- Cards
+- Hover Effect
