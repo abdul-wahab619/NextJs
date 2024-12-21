@@ -88,3 +88,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 - Courese
 - Contact Us
+
+
+# Landing Page
+
+## Techonology used:
+
+1. NextJs 15
+2. TailwindCSS
+3. Typescript
+4. Swiper
+5. App Router
